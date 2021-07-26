@@ -1,0 +1,43 @@
+body{width:100% !important;padding:0px;margin:0px !important;}
+.grid_8,.third_mobile,.divmobile,.div_mobile_full{width:98% !important;}
+#div_header, #div_header a, #div_header li{font-size:small !important;}
+#div_footer{position:relative !important;}
+#site_logo{max-width:96% !important;margin:10px auto;}
+
+#mob_logo_container{background:#005a71;}
+#logo_container{width:79%;display:inline-block !important;}
+
+/*.g960{width:100% !important;}*/
+.mobile_breaker{display:block !important;}
+#menu_toggle{display:block;margin:10px auto;}
+
+#mob_menu_container{background:#A3BF3E;}
+#mob_menu_container img{max-width:20px;}
+
+#main_menu{display:none;}
+#main_menu li{margin-left:8px;white-space:nowrap;margin-bottom:5px;font-weight:normal;}
+
+#main_menu div{width:100%;text-align:center;font-weight:normal;padding:5px 0px;}
+
+#menu_container{padding:0px; width:19%; display:inline-block;}
+
+#disociales{width:100% !important;}
+#main_nav .quarter{width:50%;}
+
+.main_nav_num{width:100%;float:left;text-align:center;}
+.main_nav_txt{width:100%;float:left;padding:10px 0px;}
+
+#back-top{position:fixed;bottom:10px !important;right:5px !important;}
+
+.container_16, .contenido{width:100% !important;margin:0px;padding:0px;}
+.divfirst{min-width:310px;}
+#mobilemargins{overflow:visible;}
+#welcome_opts img{max-width:79px !important;}
+#lis_clases div, #lis_clases_soon div, .alpha_temas div{width:140px !important;}
+#in_tema_top_title{font-size:xx-small;margin-top:0px;padding-left:22px;padding-right:22px;padding-top:10px;padding-bottom:10px;}
+.leccion_numer{width:98% !important;height:auto !important;text-align:left;padding-top:5px !important;padding-bottom:5px !important;}
+.leccion_clases{width:98% !important;}
+.list_clases li img{max-height:50px;}
+.ui-accordion .ui-accordion-content{padding:0;overflow:hidden;}
+#vids_emprende_vids .grid_3{width:45% !important;}
+#div_footlinks{padding-right:10px;font-size:x-small;}
